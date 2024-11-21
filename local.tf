@@ -4,5 +4,5 @@ locals {
     zone1           = "us-east-1a"
     zone2           = "us-east-2a"
     eks_name        = "My-eks-cluster"
-    eks_version     = "1.30"
+    eks_version     = "1.31"
 }
